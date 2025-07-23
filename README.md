@@ -36,7 +36,9 @@ Agora só se divertir.
 
 jogo-da-forca/
 ├── Lab4-v1.py        # Código-fonte principal do jogo
+
 ├── README.md         # Este arquivo
+
 🎮 Como jogar
 Você precisa adivinhar a palavra oculta, letra por letra.
 
