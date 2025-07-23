@@ -20,6 +20,8 @@ O projeto foi realizado como parte dos estudos do curso de Python da **DSA - Dat
    cd jogo-da-forca
 Apos baixar o arquivo, execute o script no diretorio do arquivo:
 
+python Lab4-v1.py
+
 <img width="523" height="95" alt="image" src="https://github.com/user-attachments/assets/1e619078-c500-4fe1-9853-afba0070ce8b" />
 
 Apos o comando o jogo irá rodar.
@@ -28,8 +30,6 @@ Apos o comando o jogo irá rodar.
 
 Agora só se divertir.
 
-
-python Lab4-v1.py
 💡 Recomendado utilizar Python 3.6 ou superior.
 
 📦 Estrutura do projeto
